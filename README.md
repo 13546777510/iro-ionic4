@@ -31,12 +31,12 @@
 
 ### Clone Code From Git
 ```
-$ git clone https://github.com/13546777510/irotest.git
+$ git clone https://github.com/13546777510/iro-ionic4.git
 ```
 
 ### Open project
 ```
-$ cd irotest
+$ cd iro-ionic4
 ```
 
 ### Install npm
