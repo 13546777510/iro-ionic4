@@ -65,7 +65,7 @@ $ y
 ### Open project in Xcode / Android studio
 
 #### Xcode
-Open path: `irotest/platforms/ios`
+Open path: `iro-ionic4/platforms/ios`
 
 #### Android studio
-Open path: `irotest/platforms/android`
+Open path: `iro-ionic4/platforms/android`
